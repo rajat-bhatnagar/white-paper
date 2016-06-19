@@ -12,7 +12,6 @@ Placeholder for the changes i need to complete befor i can think of using this t
 -	Scope for including TRAVIS for continuous integration
 - Google Analytics
 - SEO
-![white-paper image](https://i.cloudup.com/rmZjQ83vRh-2000x2000.png)
 
 ## Usage:
 
@@ -28,5 +27,9 @@ jekyll server --watch
 ```
 
 ## Issues:
+
+
+![white-paper image](https://i.cloudup.com/rmZjQ83vRh-2000x2000.png)
+
 
 Report issues or feature request [here](https://github.com/vinitkumar/white-paper/issues).
