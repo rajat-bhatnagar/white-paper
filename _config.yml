@@ -1,9 +1,9 @@
 name: White Paper
-highlighter: true
+highlighter: rouge
 url: http://vinitkumar.me/white-paper
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
-description:     Jekyll theme for Programmers
+description: Jekyll theme for Programmers
 intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
 logo:             logo.png
 disqus_shortname:
@@ -13,11 +13,11 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           <your-name-here>
+  name:           Rajat Bhatnagar
   avatar:         <avatar-image-link>
-  email:          <your-email-address>
+  email:          Rajat_Bhatnagar@outlook.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter:        @Rajat_Bhatnagar
   github:
   stackexchange:
   # For Google Authorship https://plus.google.com/authorship
